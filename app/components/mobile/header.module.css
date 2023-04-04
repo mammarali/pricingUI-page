@@ -1,0 +1,16 @@
+.header {
+    @apply flex flex-col items-start bg-[#6B46C1] w-[428px] h-[394px] pl-[23px]
+}
+
+.headerBackground {
+    @apply bg-white w-[428px] h-[797px]
+}
+
+.headerMain {
+    @apply text-white font-inter text-[30px] font-[800] leading-[39px] w-[366px] h-[78px] mt-[56px] mb-[20px]
+}
+
+
+.headerSub {
+    @apply text-white font-inter w-[381px] h-[64px] text-[18px] font-[500] leading-[32px] opacity-[0.84]
+}

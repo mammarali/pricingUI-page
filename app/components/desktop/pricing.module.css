@@ -1,0 +1,15 @@
+.card {
+    @apply flex bg-white w-[994px] h-[337px] mx-[220px] mt-[-576px] rounded-[12px] shadow-pricingShadow
+}
+
+.PriceBox {
+    @apply flex flex-col rounded-l-[12px] items-center bg-[#F0EAFB] w-[378px] h-[337px]
+}
+
+.FeatureBox {
+    @apply flex flex-col rounded-r-[12px] bg-white w-[616px] h-[337px]
+}
+
+.priceButton {
+    @apply flex w-[282px] h-[51px] bg-[#805AD5] rounded-[8px] items-center justify-center font-inter text-[16px] font-[700] leading-[24px] text-[#F7FAFC]
+}

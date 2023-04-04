@@ -1,0 +1,16 @@
+.header {
+    @apply flex flex-wrap flex-col items-center bg-[#6B46C1] w-[1440px] h-[397px] max-w-[100%]
+}
+
+.headerBackground {
+    @apply bg-white w-[1440px] h-[435px] max-w-[100%] max-w-[100%]
+}
+
+.headerMain {
+    @apply text-[#F7FAFC] font-inter text-[48px] font-[800] leading-[62px] w-[766px] h-[62px] mt-[88px] mb-4
+}
+
+
+.headerSub {
+    @apply text-[#F7FAFC] font-inter w-[604px] h-[32px] text-[24px] font-[500] leading-[32px] opacity-[0.84]
+}

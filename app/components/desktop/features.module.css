@@ -1,0 +1,3 @@
+.featureBox {
+    @apply flex bg-white w-[906px] h-[48px] mx-[220px] mt-[56px] justify-center mx-[267px]
+}
