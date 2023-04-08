@@ -8,7 +8,7 @@ export default function Pricing() {
         <div className={styles.card}>
             <div className={styles.PriceBox}>
                 <span className='font-inter leading-[32px] text-[24px] font-[800] pt-[57px] pb-[16px]'>Premium PRO</span>
-                <span className='font-inter leading-[60px] text-[60px] font-[800] pb-[8px] '>$329</span>
+                <span className='font-inter leading-[60px] text-[60px] font-[800] pb-[8px]'>$329</span>
                 <span className='font-inter leading-[28px] text-[18px] font-[500] pb-[24px]'>billed just once</span>
                 <Link href="#" className={styles.priceButton}>Get Started</Link>
             </div>
